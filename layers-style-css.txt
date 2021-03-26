@@ -139,7 +139,7 @@ padding-bottom:20px;
 	height: calc(100vh - 340px) !important;
 }
 .wrapper-content {
-background-image: url(/Xoroshee-mesto/kart/fon.jpg)!important;
+background-image: url(/Xoroshee-mesto/kart/fon.png)!important;
 }
 
 body.page-id-30 .wrapper-site .header-secondary, body.page-template-booking .wrapper-site .header-secondary {
